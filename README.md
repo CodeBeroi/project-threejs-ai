@@ -100,8 +100,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git  clone  https://github.com/adrianhajdin/project_threejs_ai.git
-cd  project_threejs_ai
+git  clone  https://github.com/CodeBeroi/project-threejs-ai.git
+cd  project-threejs-ai
 ```
 
 **Installation**
